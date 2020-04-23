@@ -1,0 +1,162 @@
+Borough,Neighborhood,ID,Name,Likes,Rating,Tips
+Bronx,Kingsbridge,5217dd2811d2d06ccafb77d3,Estrellita Poblana V,24,8.1,8
+Bronx,Kingsbridge,4ce81d330f196dcb5d2b43ae,Picante Picante Mexican Restaurant,19,7.9,14
+Bronx,Kingsbridge,553d5376498e322eb4d37a1b,Chipotle Mexican Grill,31,7.7,1
+Bronx,Norwood,4e74ebead1643f93b1b05d2c,Queen of Tacos,5,7.4,7
+Bronx,Baychester,58582b156431e554e165d909,Moe's Southwest Grill,1,6.7,0
+Bronx,Bedford Park,4e4d0389bd413c4cc66dfd84,Las Maravillas De Mexico,6,7.2,3
+Bronx,Bedford Park,4bab9998f964a520c8b73ae3,OK Mr. Pancho,6,7.0,4
+Bronx,Bedford Park,0,0,0,0.0,0
+Bronx,Melrose,5591837d498ee4167d48bb73,Cinco de Mayo,8,6.8,3
+Bronx,Morrisania,0,0,0,0.0,0
+Bronx,Parkchester,4b4929d2f964a520656826e3,Taqueria Tlaxcali,131,9.1,73
+Bronx,Westchester Square,4b720280f964a520d9692de3,Estrellita Poblana IV,45,8.5,29
+Bronx,Belmont,4c27e5e0fe6e2d7f4f84523c,Estrellita Poblana,66,8.5,37
+Bronx,Belmont,5529d964498ec65bfc27ad91,Chipotle Mexican Grill,24,6.6,5
+Bronx,North Riverdale,4ba174d5f964a52094b837e3,Carlos & Gabby's - Riverdale,9,7.2,8
+Bronx,Pelham Bay,4bad4cebf964a520b8433be3,Mexico Magico Restaurant,13,7.9,18
+Bronx,Schuylerville,53b89de7498e8be468fd777d,Cabo,33,8.3,6
+Bronx,Schuylerville,4e7bca12183811c1da2694f2,Taqueria Lupita,5,7.3,3
+Brooklyn,Bay Ridge,5796884c498eef49acc7f06e,Lobo Loco,19,6.8,4
+Brooklyn,Sunset Park,49bc364ff964a5201f541fe3,Tacos Matamoros,131,8.2,61
+Brooklyn,Sunset Park,4b5415ecf964a520d3b127e3,Ricos Tacos,38,7.3,38
+Brooklyn,Sunset Park,4d6d976d792bb60cbdd156be,Tulcingo Restaurant,4,6.9,9
+Brooklyn,Greenpoint,5a2b5dbdc0af5755f9b41a7a,Friducha,37,8.7,5
+Brooklyn,Flatbush,52b1cc13498e28159d0fadb8,El Paso Mexican Grill,22,8.1,11
+Brooklyn,Flatbush,4b92e166f964a520062434e3,Don Burrito,11,6.8,11
+Brooklyn,Kensington,4c0c4663340720a1e17d8993,El Mirador,5,7.7,3
+Brooklyn,Prospect Heights,54d407db498eca36438fc5d3,Nacho Macho Taco,96,8.6,32
+Brooklyn,Prospect Heights,53361829498eb42538181b8d,Citrico,47,7.4,17
+Brooklyn,Prospect Heights,5c942e786eda02002cb33180,Mexicocina Agaveria,3,7.3,4
+Brooklyn,Prospect Heights,58b74644a6118c72d7ab0b4b,Alta Calidad,169,8.6,43
+Brooklyn,Prospect Heights,4b54c4adf964a5207ccb27e3,Maya Taqueria,95,7.5,38
+Brooklyn,Bushwick,507c9d44e4b07390823b8d98,Taqueria Sofia,80,8.6,38
+Brooklyn,Bushwick,54a5a765498e6b7e2ce128c8,El Kucho,40,8.3,15
+Brooklyn,Bushwick,4a79c17ef964a52093e71fe3,El Sol de Cholula,15,7.7,3
+Brooklyn,Bushwick,571ac9ed498e4010d9d69e53,Taqueria Santa Fe,21,8.3,9
+Brooklyn,Bushwick,4dd6d110814d85e931ff48e4,Zefe's Mexican Restaurant,10,7.2,5
+Brooklyn,Brooklyn Heights,5c119dac829b0c002c9799b8,Grand Canyon Restaurant,11,8.5,0
+Brooklyn,Brooklyn Heights,53dd1f41498efb39049ce081,Chipotle Mexican Grill,64,7.4,6
+Brooklyn,Brooklyn Heights,52a90a1a498e989e222e0560,Gallito's Kitchen,40,6.6,15
+Brooklyn,Cobble Hill,4116be80f964a520050c1fe3,Alma,233,8.0,132
+Brooklyn,Gowanus,502bc1d0e4b040e2ae32962e,La Slowteria,90,8.3,47
+Brooklyn,Park Slope,57781fab498ee216fb58a39c,Chipotle Mexican Grill,16,7.1,1
+Brooklyn,Cypress Hills,0,0,0,0.0,0
+Brooklyn,Clinton Hill,56086b40498e48b257697061,Chipotle Mexican Grill,16,7.6,1
+Brooklyn,Clinton Hill,42829c80f964a52053221fe3,Castros,57,7.6,43
+Brooklyn,Clinton Hill,588e651ed98f3662f28aff16,Villa Pancho,8,7.2,4
+Brooklyn,Clinton Hill,4ba4e92ef964a5200bc238e3,Los Pollitos III,36,6.5,33
+Brooklyn,Boerum Hill,5c436d760d8a0f0039eb3f78,Chipotle Mexican Grill,2,7.5,0
+Brooklyn,Ocean Hill,0,0,0,0.0,0
+Brooklyn,City Line,0,0,0,0.0,0
+Brooklyn,Prospect Park South,5491cc2b498ea98016a548b2,Mallenche Mexican Grill,12,7.2,2
+Brooklyn,Prospect Park South,596938a0a22db76efcd439a6,Los Tres Chiflados,5,7.3,2
+Brooklyn,Georgetown,5c26849c64c8e1003979056d,Chipotle Mexican Grill,2,7.5,0
+Brooklyn,East Williamsburg,59fbcf0a0457b7018e001f75,Tacos Project,22,7.5,11
+Brooklyn,East Williamsburg,4a1b00edf964a520bb7a1fe3,Antojitos Mexicanos,12,7.6,13
+Brooklyn,East Williamsburg,509d5ab2e4b029db3cfdced5,Pedro's II,12,5.9,5
+Brooklyn,North Side,5db7884023aa41000849fc46,Tacombi,22,8.6,6
+Brooklyn,North Side,51c4c6de498edf95246e0072,Cerveceria Havemeyer,179,8.1,55
+Brooklyn,South Side,51c4c6de498edf95246e0072,Cerveceria Havemeyer,179,8.1,55
+Brooklyn,South Side,5db7884023aa41000849fc46,Tacombi,22,8.6,6
+Brooklyn,Fort Hamilton,52bb513f498ed5d17e37d5d3,Taqueria El Puente,6,6.5,4
+Manhattan,Chinatown,5885471a0037eb3b6c2973d2,Factory Tamal,29,8.5,11
+Manhattan,Chinatown,58f55261419a9e48f4dd0706,JaJaJa Plantas Mexicana,173,8.9,48
+Manhattan,Washington Heights,4b2c33d0f964a520aac324e3,Refried Beans Mexican Restaurant,62,7.1,37
+Manhattan,Washington Heights,4ee2bbe8775b86c4028dec5d,Mi Ranchito,6,6.1,2
+Manhattan,Inwood,4b0885d1f964a520a20d23e3,Guadalupe Bar and Grill,103,8.5,45
+Manhattan,Inwood,53e58cd0498e01b8fae39b41,Made in Mexico,38,7.7,6
+Manhattan,Inwood,5830ff3044587f7beb2271cc,Guacamole,13,8.1,2
+Manhattan,Inwood,4d824d2dbede548186840fd1,Azteca,1,6.9,4
+Manhattan,Hamilton Heights,57274808498e7db363dcc4bc,Oso,58,8.2,18
+Manhattan,Hamilton Heights,575a15f6498e0db46deded82,Frijolito's,14,8.0,7
+Manhattan,Hamilton Heights,534aace3498e249ceb4111dc,Agave Mexican & American Grill,14,7.2,8
+Manhattan,Manhattanville,4acfe332f964a520afd620e3,El Porton,40,7.8,24
+Manhattan,Manhattanville,4bd4e5076798ef3b92a6628d,Chinelos,6,8.2,7
+Manhattan,East Harlem,5221402b11d2f5e7ec7c37e8,Cascolate Latin Bistro,31,8.3,28
+Manhattan,East Harlem,53892262498ef00115e1cb9d,Lupita's Restaurant,18,8.1,4
+Manhattan,East Harlem,4ed825e98231efe38cad7306,El Aguila,73,8.1,28
+Manhattan,East Harlem,4b4b5e8cf964a520039926e3,Cafe Ollin,89,8.3,43
+Manhattan,East Harlem,5113f1e2e4b095b57d329466,Lupita's Restaurant,8,6.7,9
+Manhattan,Upper East Side,4e972a527bebee95ad73a290,Toloache 82,234,8.6,90
+Manhattan,Yorkville,49f33ef2f964a520766a1fe3,Maz Mezcal,118,8.3,57
+Manhattan,Yorkville,59125f8189e4907f68b07815,Conmigo,37,7.4,15
+Manhattan,Yorkville,4c1fbbd9b4e62d7f2c19e093,Sabor a Mexico,29,7.6,22
+Manhattan,Lenox Hill,51fdb573498ea9380b61aa55,Chipotle Mexican Grill,63,7.8,10
+Manhattan,Lenox Hill,518453c7498e3f3fef5f0708,Two Lizards Mexican Bar & Grill,92,7.6,50
+Manhattan,East Village,54f90055498e6ce6a801f8f3,Taqueria St. Marks,338,9.0,64
+Manhattan,East Village,49e80026f964a52037651fe3,Zaragoza Mexican Deli-Grocery,188,8.4,106
+Manhattan,Manhattan Valley,4a32f3cef964a520d19a1fe3,Taqueria Y Fonda,124,8.1,63
+Manhattan,Manhattan Valley,5505a84f498e24eaeb0fd3ea,Panchos,7,7.3,1
+Manhattan,Morningside Heights,5e4588b27c99ac0008a9437b,Dos Toros Taqueria,0,7.9,0
+Manhattan,Gramercy,5b6e2e356adbf5002c7bc64c,Taqueria Gramercy,45,8.7,11
+Manhattan,Gramercy,5648cc90498e7aac04fb1a60,Chipotle Mexican Grill,22,7.1,0
+Manhattan,Battery Park City,554ce3f0498e5e644ef0ab8a,Chipotle Mexican Grill,39,7.2,5
+Manhattan,Financial District,4a15a2e8f964a520a9781fe3,Mad Dog & Beans Mexican Cantina,395,7.8,176
+Queens,Astoria,5dd0a68e832e520008369b09,Viva Viva,10,8.4,6
+Queens,Jackson Heights,4b91ca34f964a5209fd733e3,Tacos Mi Mexico Lindo,12,8.4,10
+Queens,Jackson Heights,51e248ef498e6768a842bff1,Taco Veloz,9,7.4,3
+Queens,Jackson Heights,568ab53d498e748783593ebe,Chipotle Mexican Grill,9,6.8,2
+Queens,Elmhurst,4b91ca34f964a5209fd733e3,Tacos Mi Mexico Lindo,12,8.4,10
+Queens,Elmhurst,54c63464498e753931c565da,Juquila Mexican Cuisine,21,8.1,4
+Queens,Elmhurst,5251b0b811d2e79764fd8bc7,Genesis Mexican Authentic Cuisine,10,8.4,2
+Queens,Elmhurst,53cc56bc498e5a7d7b0def8e,La Esquina Del Camaron Mexicano,11,7.9,3
+Queens,Howard Beach,5bb103e28110450039b559ab,Chipotle Mexican Grill,3,7.5,0
+Queens,Corona,5982f0d5f5e9d71716cdc9d5,Cienega Las Tlayudas de Oaxaca Mexican Cuisine,9,7.9,3
+Queens,Corona,4f93adc2e4b08038d80dea72,Mi Cocina,1,7.0,4
+Queens,Long Island City,5a8eeaeff4b5255793fb12d3,Waheyo,9,8.3,3
+Queens,Long Island City,57f44dfa498e13c278fa4925,Gordo's Cantina,40,7.4,14
+Queens,Long Island City,57f54617498e2cb89939bbfc,Chipotle Mexican Grill,31,8.2,5
+Queens,Long Island City,4bd620d27b1876b033108c86,Momento,14,6.5,5
+Queens,Sunnyside,4c38e20aae2da593da8c01c6,Mi Nuevo Rancho,4,6.0,3
+Queens,Ridgewood,51609091498eedc7cf34d817,Taquerias Kermes,50,8.6,28
+Queens,Bayside,4b5a51ddf964a520e7bc28e3,Tequila Sunrise,36,7.0,28
+Queens,Bayside,4babe1e3f964a520e6d13ae3,Cinco De Mayo,26,6.7,23
+Queens,Glen Oaks,0,0,0,0.0,0
+Queens,Briarwood,0,0,0,0.0,0
+Queens,Jamaica Center,56153d98498ea3c98dd59e71,Don Nico's,23,8.8,5
+Queens,Jamaica Center,5a74e9b8a4c39c7583d2c6aa,Chipotle Mexican Grill,4,7.2,3
+Queens,Queens Village,0,0,0,0.0,0
+Queens,Lefrak City,58335576b50d520d9954f4fb,Chipotle Mexican Grill,3,7.3,0
+Queens,Belle Harbor,52606a9f498ee1a7b1b262d3,Pico,57,8.4,17
+Queens,North Corona,4bd1c94c046076b076737271,Los Tres Potrillos,2,6.3,3
+Queens,Forest Hills Gardens,4ba3f7a9f964a520847238e3,Happy Fresh Tortilla Grill,3,6.4,7
+Staten Island,Stapleton,53ba2986498efc27ecf908d4,El Patron Restaurant & Lounge Inc.,11,7.3,4
+Staten Island,Stapleton,5a0e4a053149b93aaa628cc8,Gringos,7,7.1,3
+Staten Island,Rosebank,548a376f498ed35b87006f24,Maizal,6,7.1,4
+Staten Island,West Brighton,4be60a50bcef2d7fa3bb04e5,Burrito Bar,70,7.2,46
+Staten Island,Port Richmond,0,0,0,0.0,0
+Staten Island,New Springville,4f8f480ce4b06b50aec5da08,QDOBA Mexican Eats,23,6.8,11
+Staten Island,New Dorp,4f5d5bb5e4b035e31551ddc9,Cantina Mexicana,9,7.2,11
+Staten Island,Great Kills,0,0,0,0.0,0
+Staten Island,Woodrow,58ca4ef615fb435cb5b8b9d0,QDOBA Mexican Eats,2,7.1,0
+Staten Island,Tottenville,0,0,0,0.0,0
+Staten Island,Tompkinsville,4bbfd2712a89ef3b82afef88,Taqueria El Gallo Azteca,12,7.3,11
+Brooklyn,Ditmas Park,596938a0a22db76efcd439a6,Los Tres Chiflados,5,7.3,2
+Staten Island,Grant City,4b5c9f60f964a520773a29e3,Moe's Southwest Grill,37,6.5,20
+Manhattan,Carnegie Hill,4f63c8e3e4b09b9cd92afeae,Mole Restaurant,141,7.5,73
+Manhattan,Noho,4f402ae1e4b0e5bc120e3876,Fonda,443,8.4,177
+Manhattan,Civic Center,53ecff6c498e4189764e35ec,Anejo Tribeca,155,7.3,49
+Staten Island,Clifton,548a376f498ed35b87006f24,Maizal,6,7.1,4
+Staten Island,Clifton,0,0,0,0.0,0
+Bronx,Concourse Village,58d3f7f79435a92450b97b0d,Chipotle Mexican Grill,3,7.3,0
+Bronx,Concourse Village,5591837d498ee4167d48bb73,Cinco de Mayo,8,6.8,3
+Bronx,Mount Eden,0,0,0,0.0,0
+Manhattan,Sutton Place,42a4e380f964a520f7241fe3,Rosa Mexicano,209,8.6,70
+Manhattan,Sutton Place,56ca53ffcd101492d324f923,Oaxaca Taqueria,19,6.5,10
+Queens,Hunters Point,4f62afe7e4b09b9cd8b354f6,Casa Enrique,673,9.1,231
+Manhattan,Tudor City,3fd66200f964a5205ee31ee3,El Parador,159,8.3,95
+Manhattan,Tudor City,3fd66200f964a52049e71ee3,Baby Bo's Cantina,183,8.3,120
+Manhattan,Tudor City,5065bdbee4b0a44a76ae8083,Chipotle Mexican Grill,91,7.0,20
+Queens,Sunnyside Gardens,4de9baa545dd3993a879cd99,El Rey Del Taco,6,7.2,1
+Queens,Sunnyside Gardens,56218d22498ef80198e4bee7,Chihuahua Mexican Restaurant & Cantina,13,7.4,5
+Brooklyn,Fulton Ferry,4f69f2b76d86f87117bb13ab,Gran Eléctrica,637,8.6,200
+Brooklyn,Broadway Junction,0,0,0,0.0,0
+Brooklyn,Dumbo,4f69f2b76d86f87117bb13ab,Gran Eléctrica,637,8.6,200
+Brooklyn,Homecrest,507e08fae4b0998ce3421276,El Mexicano Restaurante & Cafe Inc,15,7.9,8
+Brooklyn,Homecrest,4a3ada26f964a5205fa01fe3,La Villita Mexican Restaurant,8,6.1,6
+Staten Island,Richmond Valley,52aa599011d250326f249f53,Qdoba Mexican Grill,4,6.8,0
+Bronx,Bronxdale,4e98cfecdab4e743aded173d,El Acatlan,6,7.2,3
+Bronx,Allerton,0,0,0,0.0,0
+Bronx,Kingsbridge Heights,4b403740f964a520e8b625e3,Montezuma Mexican Restaurant,27,6.8,21
+Bronx,Kingsbridge Heights,0,0,0,0.0,0
